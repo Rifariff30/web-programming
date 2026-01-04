@@ -1,4 +1,4 @@
-<?php include 'db.php'; ?>
+<?php include 'db.php';?>
 
 <!DOCTYPE html>
 <html>
@@ -36,4 +36,5 @@ if (isset($_POST['submit'])) {
 ?>
 
 </body>
+
 </html>
